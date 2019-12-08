@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require_relative "../fuel"
+require_relative "../lib/fuel"
 
 describe Fuel do
   describe ".calculate" do
